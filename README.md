@@ -19,3 +19,9 @@ Repositório para o compartilhamento de materiais da disciplina.
 * Baixe o [Git](https://git-scm.com/downloads) aqui
 
 #### **Sem provas**. <ins>Avaliações em forma de trabalho práticos individuais</ins>.
+
+#### Leitura recomendada - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+
+## Deixe seu feedback
+
+Preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLSeFeTIGYfyB851PDuJcAAWekQQ_WXt6Arhqnv9mwAVRK9Qepw/viewform?usp=sf_link) para que o curso possa ser melhorado nas próximas vezes.
