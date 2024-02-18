@@ -10,7 +10,7 @@ Repositório para o compartilhamento de materiais da disciplina.
 
 ## Informações Gerais
 
-* [Materiais]([....//../materiais](https://github.com/ciencias-da-terra-python-1-2024-1/materiais))
+* [Materiais](https://github.com/ciencias-da-terra-python-1-2024-1/materiais)
 * [Calendário da disciplina]() - sujeito a alterações 
 * [EarthLab](https://www.earthdatascience.org/) - cursos e materiais - Copyright (c) Earth Lab
 * [Google Colaboratory](https://colab.research.google.com/) - ambiente Jupyter Notebook
